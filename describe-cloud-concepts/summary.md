@@ -1,4 +1,4 @@
-# Microsoft Azure Fundamentals: Describe cloud concepts
+# Summary for the Microsoft Azure Fundamentals: Describe cloud concepts
 
 Time: 52 min | Learning Path | 3 Modules
 
