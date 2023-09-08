@@ -4,11 +4,11 @@ I am studying online (self-guided) for the AZURE Fundamentals certification know
 
 I enjoy staying on top of the fast developing technology and this is important for my career in software development. Plus, I have the support from the organisation whom I work for which is a real bonus. 
 
-***The online resource***
+***The online learing resource***
 
-[AZ-900 online resource](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
+[Exam AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
 
-This online resource is kept up-to-date by Microsoft who owns and runs AZURE.
+This online learning resource is kept up-to-date by Microsoft who owns and runs AZURE.
 
 ## The starting point
 
