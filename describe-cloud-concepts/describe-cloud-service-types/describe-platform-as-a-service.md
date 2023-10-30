@@ -22,6 +22,8 @@ Some common scenarios where PaaS might make sense include:
 
 - Analytics or business intelligence: Tools provided as a service with PaaS allow organizations to analyze and mine their data, finding insights and patterns and predicting outcomes to improve forecasting, product design decisions, investment returns, and other business decisions.
 
+The first unordered list above I think could be an advantage to software developers like myself? However, I think once I've completed this certification then i should have a better idea?
+
 ## Next up
 
 [Describe Software as a Service](https://learn.microsoft.com/en-gb/training/modules/describe-cloud-service-types/3-describe-platform-service)
