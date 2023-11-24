@@ -1,5 +1,7 @@
 # Describe Azure compute and networking services
 
+[Describe Azure compute and networking services](https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/)
+
 Beginner - Administrator - Developer - DevOps Engineer - Solution Architect - Azure
 
 This module focuses on some of the computer services and networking services available within Azure.
@@ -38,3 +40,7 @@ Microsoft Azure Fundamentals: Describe Azure architecture and services.
 12. Describe Azure DNS
 13. Knowledge check
 14. Summary
+
+## Next up
+
+[Intro](https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/1-introduction)
